@@ -12,3 +12,4 @@
      - To add modify start and end node location - modify "RRT.run(start_node_x,start_node_y,end_node_x,end_node_y)" in the "main.py" script.
 
 ## Output Preview
+<img src="Figure_1.png" alt="your_alt_text" align="left" style="width: 50%; height: 60%;">
